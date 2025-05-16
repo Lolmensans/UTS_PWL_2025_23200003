@@ -19,3 +19,9 @@ model preorder {
   qty Int
   is_paid Boolean
 }
+
+model package {
+  kode String
+  nama String
+  Deskripsi String
+}
